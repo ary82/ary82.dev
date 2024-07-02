@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on ary82.dev</title>
-    <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on ary82.dev</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <title>Categories on ary82&#39;s website</title>
+    <link>https://ary82.dev/categories/</link>
+    <description>Recent content in Categories on ary82&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Aryan Goyal</copyright>
+    <lastBuildDate>Wed, 26 Jun 2024 20:48:43 +0530</lastBuildDate><atom:link href="https://ary82.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project</title>
+      <link>https://ary82.dev/categories/project/</link>
+      <pubDate>Wed, 26 Jun 2024 20:48:43 +0530</pubDate>
+      
+      <guid>https://ary82.dev/categories/project/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>

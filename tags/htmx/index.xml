@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HTMX on ary82&#39;s website</title>
+    <link>https://ary82.dev/tags/htmx/</link>
+    <description>Recent content in HTMX on ary82&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Aryan Goyal</copyright>
+    <lastBuildDate>Wed, 26 Jun 2024 20:48:43 +0530</lastBuildDate><atom:link href="https://ary82.dev/tags/htmx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Balance</title>
+      <link>https://ary82.dev/projects/balance/</link>
+      <pubDate>Wed, 26 Jun 2024 20:48:43 +0530</pubDate>
+      
+      <guid>https://ary82.dev/projects/balance/</guid>
+      <description>A website that compliments and insults you at the same time</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ary82.dev/projects/balance/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
