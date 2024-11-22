@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>POCs_and_Reinventing_Wheels on ary82&#39;s website</title>
+    <link>http://localhost:1313/pocs_and_reinventing_wheels/</link>
+    <description>Recent content in POCs_and_Reinventing_Wheels on ary82&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Thu, 22 Aug 2024 22:21:54 +0530</lastBuildDate><atom:link href="http://localhost:1313/pocs_and_reinventing_wheels/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Raytracer</title>
+      <link>http://localhost:1313/pocs_and_reinventing_wheels/raytracer/</link>
+      <pubDate>Thu, 22 Aug 2024 22:21:54 +0530</pubDate>
+      
+      <guid>http://localhost:1313/pocs_and_reinventing_wheels/raytracer/</guid>
+      <description>A simple raytracer written in C++</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/pocs_and_reinventing_wheels/raytracer/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
