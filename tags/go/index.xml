@@ -1,1 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Go on ary82's website</title><link>https://ary82.dev/tags/go/</link><description>Recent content in Go on ary82's website</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><copyright>© 2026</copyright><lastBuildDate>Sun, 21 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ary82.dev/tags/go/index.xml" rel="self" type="application/rss+xml"/><item><title>My v0s</title><link>https://ary82.dev/posts/v0s/</link><pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate><guid>https://ary82.dev/posts/v0s/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go on ary82&#39;s website</title>
+    <link>https://ary82.dev/tags/go/</link>
+    <description>Recent content in Go on ary82&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Sun, 21 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ary82.dev/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My v0s</title>
+      <link>https://ary82.dev/posts/v0s/</link>
+      <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://ary82.dev/posts/v0s/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
